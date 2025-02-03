@@ -149,7 +149,6 @@ You can make requests from the browser client using `XMLHttpRequest` (AKA AJAX) 
 
 Many companies and institutions have public API's that developers can access. For example:
 
-- https://www.programmableweb.com/
 - https://data.seattle.gov/
 - https://data.wa.gov/browse
 - https://data.occrp.org/
